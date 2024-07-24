@@ -2,6 +2,8 @@
 
 ![Marcos Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=mkzindev&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkzindev)](https://github.com/anuraghazra/github-readme-stats)
+
 ###  Tecnologias que eu ultilizo
 
 <div style="display: inline_block">
@@ -14,4 +16,14 @@
 <img align="center" alt="typeScript" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 
-</div>
+</div><br>
+
+Estudante de Infoweb, apaixonado pela área, sempre buscando aprender diariamente novas metódologias.
+
+### Formas de contato:
+
+<img align="center" alt="typeScript" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> (84) 9929-6771 
+
+<img align="center" alt="typeScript" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> marcospaulobento2006@gmail.com 
+
+[![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_markin.91/)
