@@ -1,6 +1,6 @@
 ### Olá! Eu sou Marcos Silva 👋
 
-![Marcos Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=mkzindev&show_icons=true&theme=dracula)
+![Marcos Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosilvadev22&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosilvadev22)](https://github.com/anuraghazra/github-readme-stats)
 
